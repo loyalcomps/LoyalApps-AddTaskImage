@@ -3,7 +3,7 @@
     'author':'Loyal IT Solutions Pvt Ltd',
     'website':'www.loyalitsolutions.com',
     'depends':['base','contacts','project',],
-    "summary": "The module is for uploading and attaching multiple images for a task in project",
+    "summary": "The module is for uploading and attaching multiple images for a task in project | Image in Tasks ",
     "category": "project",
     'version': '16.0.1',
     'license': 'LGPL-3',
